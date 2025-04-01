@@ -1,0 +1,22 @@
+2024-11-06 19:18:09,904 Error durante la inserción de datos: too many values to unpack (expected 3)
+2024-11-06 19:21:25,100 Error durante la inserción de datos: too many values to unpack (expected 3)
+2024-11-06 19:24:43,803 Error durante la inserción de datos: too many values to unpack (expected 3)
+2024-11-06 19:30:16,850 Error durante la inserción de datos: name 'verificar_insercion' is not defined
+2024-11-06 21:10:39,288 Error durante la inserción de datos: name 'verificar_insercion' is not defined
+2024-11-06 21:22:47,372 Error al verificar inserción en Empresa: no existe la relación «empresa»
+LINE 1: SELECT COUNT(*) FROM Empresa
+                             ^
+
+2024-11-06 21:22:47,372 Error al verificar inserción en Puesto: no existe la relación «puesto»
+LINE 1: SELECT COUNT(*) FROM Puesto
+                             ^
+
+2024-11-06 21:22:47,377 Error al verificar inserción en Ubicacion: no existe la relación «ubicacion»
+LINE 1: SELECT COUNT(*) FROM Ubicacion
+                             ^
+
+2024-11-06 21:22:47,377 Error durante la inserción de datos: too many values to unpack (expected 3)
+2024-11-06 21:31:18,226 Error durante la inserción de datos: too many values to unpack (expected 3)
+2024-11-06 21:43:23,207 Error durante la inserción de datos: too many values to unpack (expected 3)
+2024-11-07 00:44:34,325 Error durante la inserción de datos: too many values to unpack (expected 3)
+2024-11-07 01:11:14,877 Error durante la inserción de datos: too many values to unpack (expected 3)
